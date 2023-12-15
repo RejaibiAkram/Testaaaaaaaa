@@ -1,0 +1,72 @@
+Uri: https://qqm4s2qs4unzd5.azureedge.net/
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\index.htm
+Content Type: text/html
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/cs.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\cs.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/dm.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\dm.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/f24.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\f24.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/jquery-1.4.4.min.js
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\jquery-1.4.4.min.js
+Content Type: application/x-javascript
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/jupiter.js
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\jupiter.js
+Content Type: application/x-javascript
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/mnc.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\mnc.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/msmm.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\msmm.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/noir.js
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\noir.js
+Content Type: application/x-javascript
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/nvidia.js
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\nvidia.js
+Content Type: application/x-javascript
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/pcm.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\pcm.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/re.gif
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\re.gif
+Content Type: image/gif
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/script.compat.js
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\script.compat.js
+Content Type: application/x-javascript
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/set.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\set.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/tapa.css
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\tapa.css
+Content Type: text/css
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/vsc.png
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\vsc.png
+Content Type: image/png
+
+Uri: https://qqm4s2qs4unzd5.azureedge.net/_Fm7-alert.mp3
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\_Fm7-alert.mp3
+Content Type: audio/mpeg
+
+Uri: https://www.facebook.com/tr?id=371651381977402&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\qqm4s2qs4unzd5.azureedge.net\tr
+Content Type: text/plain
+
